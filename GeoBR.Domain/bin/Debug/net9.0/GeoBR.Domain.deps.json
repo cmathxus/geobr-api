@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GeoBR.Domain/1.0.0": {
+        "runtime": {
+          "GeoBR.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeoBR.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

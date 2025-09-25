@@ -1,0 +1,11 @@
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\bin\Debug\net9.0\GeoBR.Domain.deps.json
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\bin\Debug\net9.0\GeoBR.Domain.dll
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\bin\Debug\net9.0\GeoBR.Domain.pdb
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\obj\Debug\net9.0\GeoBR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\obj\Debug\net9.0\GeoBR.Domain.AssemblyInfoInputs.cache
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\obj\Debug\net9.0\GeoBR.Domain.AssemblyInfo.cs
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\obj\Debug\net9.0\GeoBR.Domain.csproj.CoreCompileInputs.cache
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\obj\Debug\net9.0\GeoBR.Domain.dll
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\obj\Debug\net9.0\refint\GeoBR.Domain.dll
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\obj\Debug\net9.0\GeoBR.Domain.pdb
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\GeoBR.Domain\obj\Debug\net9.0\ref\GeoBR.Domain.dll
