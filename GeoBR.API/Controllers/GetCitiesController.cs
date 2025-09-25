@@ -18,7 +18,7 @@ namespace GeoBR.API.Controllers
     /// <summary>
     /// Retorna todas as cidades ou filtra por estado/nome/regiao.
     /// </summary>
-    /// Filtros opcionais: name, state e region
+    /// Filtros opcionais: name, state, region e limites
 
     [HttpGet("/cities")]
     public async Task<IActionResult> GetCities([FromQuery] CityFilterDto city)

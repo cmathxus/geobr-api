@@ -74,3 +74,9 @@ GET /cities?state={sigla_estado}
 ```
 GET /cities?region={nome_regiao}
 ```
+
+### Filtrar com limites de respostas
+
+```
+GET /cities?limit={limit}
+```

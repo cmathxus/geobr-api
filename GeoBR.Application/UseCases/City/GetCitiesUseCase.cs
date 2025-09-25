@@ -36,12 +36,14 @@ namespace GeoBR.Application.UseCases
         if (!string.IsNullOrEmpty(city?.Name))
           citiesDto = citiesDto.Where(c => c.Name.Contains(city.Name, StringComparison.OrdinalIgnoreCase));
 
-
         if (!string.IsNullOrEmpty(city?.State))
           citiesDto = citiesDto.Where(c => c.State.Equals(city.State, StringComparison.OrdinalIgnoreCase));
 
         if (!string.IsNullOrEmpty(city?.Region))
           citiesDto = citiesDto.Where(c => c.Region.Equals(city.Region, StringComparison.OrdinalIgnoreCase));
+
+        if (city.Limit != null)
+          citiesDto = citiesDto.Take(city.Limit.Value);
 
         return ServiceResult<List<CityReadDto>>.Success(citiesDto.ToList());
 

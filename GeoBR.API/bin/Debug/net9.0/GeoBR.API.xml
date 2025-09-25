@@ -6,8 +6,9 @@
     <members>
         <member name="M:GeoBR.API.Controllers.GetCitiesController.GetCities(GeoBR.Application.DTOs.CityFilterDto)">
             <summary>
-            Retorna todas as cidades do Brasil.
+            Retorna todas as cidades ou filtra por estado/nome/regiao.
             </summary>
+            Filtros opcionais: name, state e region
         </member>
         <member name="M:GeoBR.API.Controllers.GetCitiesController.GetCityById(System.Int32)">
             <summary>
