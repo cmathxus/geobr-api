@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GeoBR.API.props" />
+</Project>

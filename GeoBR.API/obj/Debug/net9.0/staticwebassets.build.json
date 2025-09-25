@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ifpd4fd+hssWhh8EW40EdILAin7y/a/WyuBqegmXCdM=",
+  "Source": "GeoBR.API",
+  "BasePath": "_content/GeoBR.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
