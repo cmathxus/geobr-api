@@ -4,28 +4,16 @@
         <name>GeoBR.API</name>
     </assembly>
     <members>
-        <member name="M:GeoBR.API.Controllers.GetCitiesController.GetCities">
+        <member name="M:GeoBR.API.Controllers.GetCitiesController.GetCities(GeoBR.Application.DTOs.CityFilterDto)">
             <summary>
             Retorna todas as cidades do Brasil.
             </summary>
-        </member>
-        <member name="M:GeoBR.API.Controllers.GetCitiesController.GetCitiesByState(System.String)">
-            <summary>
-            Retorna as cidades pelo nome do estado (IBGE).
-            </summary>
-            <param name="state">Nome do estado</param>
         </member>
         <member name="M:GeoBR.API.Controllers.GetCitiesController.GetCityById(System.Int32)">
             <summary>
             Retorna uma cidade pelo ID (IBGE).
             </summary>
             <param name="id">ID da cidade no IBGE</param>
-        </member>
-        <member name="M:GeoBR.API.Controllers.GetCitiesController.GetCityByName(System.String)">
-            <summary>
-            Retorna uma cidade pelo nome(IBGE).
-            </summary>
-            <param name="name">Nome da cidade no IBGE</param>
         </member>
     </members>
 </doc>

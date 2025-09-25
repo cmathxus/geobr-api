@@ -46,3 +46,4 @@ C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\geobr.api\bin\Debug\net
 C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\geobr.api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\geobr.api\bin\Debug\net9.0\GeoBR.API.xml
 C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\geobr.api\obj\Debug\net9.0\GeoBR.API.xml
+C:\Users\akirasz\projects\studies\workspace-csharp\GeoBR\geobr.api\obj\Debug\net9.0\GeoBR.API.sourcelink.json
